@@ -143,6 +143,7 @@
                     <p class="thoughts">+256 757 457002  / +256 753 529670 registered as MUWAYI SUFURA</p>
                     <p class="thoughts">Email   Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</p>
                     <p class="thoughts">Bank Accounts 1017102956029/3201748480</p>
+                    <p class="thoughts">Location      along side iganga kaliro road in namugerwe sub county bulaga village</p>
 									</div>
 								</div>
 
@@ -329,7 +330,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="logo"><i class="flaticon-cross"><a href="index.php"></i><span>Sufura Foundation</span><span>Church</span></a></h2>
-              <p>We are a cell-based community Sufura foundation in Lira City, Northern -Uganda.</p>
+              <p>We are located along side iganga kaliro road in namugerwe sub county bulaga village</p>
             </div>
           </div>
           <div class="col-md">
@@ -359,7 +360,7 @@
             <h2 class="ftco-heading-2">Location</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-                  <li><span class="icon icon-map-marker"></span> <span class="text"> Behind Golden Park, Near Juba Market Lira City</span></li>
+                  <li><span class="icon icon-map-marker"></span> <span class="text">along side iganga kaliro road in namugerwe sub county bulaga village</span></li>
 	                <li><span class="icon icon-clock-o"></span><span class="text">Saturday - Sunday 8:00am - 5:00pm</span></li>
 	              </ul>
 	            </div>

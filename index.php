@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <link rel="shortcut icon" href="images/paglogo.png" type="png/jpeg/ico" style="color: white;">
+    <link rel="shortcut icon" href="" type="" style="color: white;">
 
   <!-- Meta Data -->
 
     <meta name="description" content="Sufura Foundation">
-    <meta name="keywords" content="Sufura Foundation, kampala Uganda, Children Orphanage">
+    <meta name="keywords" content="Sufura Foundation, along side iganga kaliro road in Namugerwe village">
     <meta name="author" content="Hakateq Solutions">
 
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800" rel="stylesheet">
@@ -140,7 +140,9 @@
                      <!-- <p><a href="#testimonies-id" class="btn btn-primary p-3">Fundraising Giving Option.</a></p>-->
                       <p><a href=" " class="btn btn-primary p-3">Fundraising Giving Option.</a></p>
                     </div>
-                    <p class="thoughts">MTN NUMBER: 0789562720 registered as BAZALE FAHAD</p>
+                    <p class="thoughts">+256 757 457002  / +256 753 529670 registered as MUWAYI SUFURA</p>
+                    <p class="thoughts">Email   Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</p>
+                    <p class="thoughts">Bank Accounts 1017102956029/3201748480</p>
 									</div>
 								</div>
 
@@ -344,8 +346,8 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp MTN: +256 789562720</span></a></li>
-                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">edsonkusemererwa2000@gmail.com</a></li>
+                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: +256 757 457002/256753529670</span></a></li>
+                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</a></li>
        
                 
               

@@ -9,9 +9,9 @@
 
   <!-- Meta Data -->
 
-    <meta name="description" content="PAG Worship Center Downtown Lira City">
-    <meta name="keywords" content="Worship Center Lira, PAG in Lira, Best Youth Church in Lira City, Okodo Peter, Transcend Youths in Lira City, Western Style Church Lira.">
-    <meta name="author" content="Kakebe Technologies LTD">
+    <meta name="description" content="Sufura Foundation">
+    <meta name="keywords" content="Sufura Foundation, kampala Uganda, Children Orphanage">
+    <meta name="author" content="Hakateq Solutions">
 
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800" rel="stylesheet">
 

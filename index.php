@@ -101,7 +101,7 @@
 	  </nav>
     <!-- END nav -->
       
-    <section id="home" class="video-hero js-fullheight" style="height: 700px; background-image: url(images1/1.JPG);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
+    <section id="home" class="video-hero js-fullheight" style="height: 700px; background-image: url(images1/11.JPG);  background-size:cover; background-position: center center;background-attachment:fixed;" data-section="home">
 			<div class="overlay js-fullheight"></div>
 			<div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
@@ -156,7 +156,7 @@
 		<section class="ftco-section-2">
       <div class="container-fluid">
         <div class="section-2-blocks-wrapper d-flex row no-gutters">
-          <div class="img col-md-6 ftco-animate" style="background-image: url('images1/3.JPG');">
+          <div class="img col-md-6 ftco-animate" style="background-image: url('images1/19.JPG');">
             <!-- <a href="#" class="button popup-vimeo"><span class="ion-ios-play"></span></a> -->
           </div>
           <div class="text col-md-6 ftco-animate">

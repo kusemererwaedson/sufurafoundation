@@ -101,7 +101,7 @@
             </form>
           
           </div>
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21188.556354846052!2d32.878629390084775!3d2.2469000069202067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1770bbeb1986df99%3A0x5e8a529c17bf0139!2sPAG%20Worship%20Centre!5e0!3m2!1sen!2sug!4v1602876902025!5m2!1sen!2sug" width="500" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d63833.472861269394!2d33.43165279463411!3d0.610201492254626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1siganga%20kaliro%20road%20in%20namugerwe%20sub%20county%20bulaga%20village%20google%20maps!5e0!3m2!1sen!2sug!4v1700651281277!5m2!1sen!2sug" width="500" height="360" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
           <!-- <div class="col-md-6" id="map"></div> -->
           
         </div>
@@ -131,8 +131,8 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: +256 757 457002/256753529670</span></a></li>
-                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</a></li>
+                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: 256753529670</span></a></li>
+                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">bazaalefahadi@gmail.com</a></li>
        
                 
               

@@ -230,8 +230,8 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: +256 757 457002/256753529670</span></a></li>
-                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</a></li>
+                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: 256753529670</span></a></li>
+                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">bazaalefahadi@gmail.com</a></li>
        
                 
               

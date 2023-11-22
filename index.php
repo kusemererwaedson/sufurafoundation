@@ -140,9 +140,9 @@
                      <!-- <p><a href="#testimonies-id" class="btn btn-primary p-3">Fundraising Giving Option.</a></p>-->
                       <p><a href=" " class="btn btn-primary p-3">Fundraising Giving Option.</a></p>
                     </div>
-                    <p class="thoughts">+256 757 457002  / +256 753 529670 registered as MUWAYI SUFURA</p>
-                    <p class="thoughts">Email   Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</p>
-                    <p class="thoughts">Bank Accounts 1017102956029/3201748480</p>
+                    <p class="thoughts">+256 753 529670 Names of Bazaale Fahad</p>
+                    <p class="thoughts">bazaalefahadi@gmail.com</p>
+                    <p class="thoughts">Bank Accounts 3201748480</p>
                     <p class="thoughts">Location      along side iganga kaliro road in namugerwe sub county bulaga village</p>
 									</div>
 								</div>
@@ -166,7 +166,7 @@
             <div class="text-inner align-self-start">
               
             <h3>SUFURA FOUNDATION</h3>
-            <p>Sufura Foundation Children's Home was established in 2007 by Bazaale Fahad, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by her commitment to ensuring a brighter future for these children, she founded the Sufura Foundation.
+            <p>Sufura Foundation Children's Home was established in 2017 by Bazaale Fahad, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by her commitment to ensuring a brighter future for these children, she founded the Sufura Foundation.
               to begin a service.</p>
 
             <h4>Our Mission</h4>
@@ -347,8 +347,8 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: +256 757 457002/256753529670</span></a></li>
-                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</a></li>
+                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: 256753529670</span></a></li>
+                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">bazaalefahadi@gmail.com</a></li>
        
                 
               

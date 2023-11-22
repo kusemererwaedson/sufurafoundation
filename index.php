@@ -329,7 +329,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="logo"><a href="index.php"><span>Sufura Foundation</span></a></h2>
+              <h2 class="logo"><a href="index.php"></i><span>Sufura Foundation</span></a></h2>
               <p>We are located along side iganga kaliro road in namugerwe sub county bulaga village</p>
             </div>
           </div>

@@ -68,13 +68,13 @@
           </div>
           <div class="w-100"></div>
           <div class="col-md-3">
-            <p><span>Address:</span> Behind Golder Park , Near Juba Market</p>
+            <p><span>Address:</span>We are located along side iganga kaliro road in namugerwe sub county bulaga village</p>
           </div>
           <div class="col-md-3">
-            <p><span>MTN:</span> <a href="tel:+256 760 111 806">+256 789562720</a></p>
+            <p><span>Phone:</span> <a href="tel:+256 760 111 806">+256 757 457002/+256 753 529670</a></p>
           </div>
           <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@worshipcenterdowntown.com">bazaalefahad@gmail.com</a></p>
+            <p><span>Email:</span> <a href="mailto:info@worshipcenterdowntown.com">Muwayisufura297@gmail.com</a></p>
           </div>
           <!-- <div class="col-md-3">
             <p><span>Website</span> <a href="#">worshipcenter.com</a></p>
@@ -113,8 +113,8 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="logo"><i class="flaticon-cross"><a href="index.php"></i><span>Sufura Foundation</span><span>Church</span></a></h2>
-              <p>We are a cell-based community Sufura foundation in Lira City, Northern -Uganda.</p>
+              <h2 class="logo"><a href="index.php"></i><span>Sufura Foundation</span></a></h2>
+              <p>We are located along side iganga kaliro road in namugerwe sub county bulaga village</p>
             </div>
           </div>
           <div class="col-md">
@@ -131,8 +131,8 @@
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
-                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp MTN: +256 789562720</span></a></li>
-                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">edsonkusemererwa2000@gmail.com</a></li>
+                <li><a href="tel:+256 760 111 806"><span class="icon icon-phone "></span><span class="text"> &nbsp WHATSAPP: +256 757 457002/256753529670</span></a></li>
+                  <li><a href="mailto:edsonkusemererwa2000@gmail.com" class="py-2 d-block">Muwayisufura297@gmail.com /bazaalefahadi@gmail.com</a></li>
        
                 
               
@@ -144,7 +144,7 @@
             <h2 class="ftco-heading-2">Location</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-                  <li><span class="icon icon-map-marker"></span> <span class="text"> Behind Golden Park, Near Juba Market Lira City</span></li>
+                  <li><span class="icon icon-map-marker"></span> <span class="text">along side iganga kaliro road in namugerwe sub county bulaga village</span></li>
 	                <li><span class="icon icon-clock-o"></span><span class="text">Saturday - Sunday 8:00am - 5:00pm</span></li>
 	              </ul>
 	            </div>

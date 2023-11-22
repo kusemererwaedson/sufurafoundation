@@ -71,7 +71,7 @@
             <p><span>Address:</span>We are located along side iganga kaliro road in namugerwe sub county bulaga village</p>
           </div>
           <div class="col-md-3">
-            <p><span>Phone:</span> <a href="tel:+256 760 111 806">+256 757 457002/+256 753 529670</a></p>
+            <p><span>Phone:</span> <a href="tel:+256 760 111 806">+256 753 529670</a></p>
           </div>
           <div class="col-md-3">
             <p><span>Email:</span> <a href="mailto:info@worshipcenterdowntown.com">Muwayisufura297@gmail.com</a></p>

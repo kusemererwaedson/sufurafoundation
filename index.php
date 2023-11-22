@@ -166,7 +166,7 @@
             <div class="text-inner align-self-start">
               
             <h3>SUFURA FOUNDATION</h3>
-            <p>Sufura Foundation Children's Home was established in 2017 by Bazaale Fahadi, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by his commitment to ensuring a brighter future for these children, she founded the Sufura Foundation.
+            <p>Sufura Foundation Children's Home was established in 2017 by Bazaale Fahadi, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by his commitment to ensuring a brighter future for these children, he founded the Sufura Foundation.
               to begin a service.</p>
 
             <h4>Our Mission</h4>

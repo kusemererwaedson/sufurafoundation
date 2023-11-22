@@ -140,7 +140,7 @@
                      <!-- <p><a href="#testimonies-id" class="btn btn-primary p-3">Fundraising Giving Option.</a></p>-->
                       <p><a href=" " class="btn btn-primary p-3">Fundraising Giving Option.</a></p>
                     </div>
-                    <p class="thoughts">+256 753 529670 Names of Bazaale Fahad</p>
+                    <p class="thoughts">+256 753 529670 Names of Bazaale Fahadi</p>
                     <p class="thoughts">bazaalefahadi@gmail.com</p>
                     <p class="thoughts">Bank Accounts 3201748480</p>
                     <p class="thoughts">Location      along side iganga kaliro road in namugerwe sub county bulaga village</p>
@@ -166,7 +166,7 @@
             <div class="text-inner align-self-start">
               
             <h3>SUFURA FOUNDATION</h3>
-            <p>Sufura Foundation Children's Home was established in 2017 by Bazaale Fahad, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by her commitment to ensuring a brighter future for these children, she founded the Sufura Foundation.
+            <p>Sufura Foundation Children's Home was established in 2017 by Bazaale Fahadi, a passionate advocate for child welfare and recognized the pressing need for a secure and nurturing environment for orphaned and abandoned children in the region. Motivated by his commitment to ensuring a brighter future for these children, she founded the Sufura Foundation.
               to begin a service.</p>
 
             <h4>Our Mission</h4>

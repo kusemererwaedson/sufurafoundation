@@ -184,6 +184,16 @@
     </section>
 
     <section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-2 pb-2">
+          <div class="col-md-8 mx-auto heading-section ftco-animate">
+          <div class="img col-md-12 ftco-animate" style="background-image: url('images1/budget.jpg'); height: 500px; weight: 500px;">
+            <!-- <a href="#" class="button popup-vimeo"><span class="ion-ios-play"></span></a> -->
+          </div>
+          </div>
+        </div>
+        
+      </div>
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-6 text-center heading-section ftco-animate">

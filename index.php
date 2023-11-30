@@ -186,9 +186,9 @@
     <section class="ftco-section">
     <div class="container">
         <div class="row justify-content-center mb-2 pb-2">
-          <div class="col-md-8 mx-auto heading-section ftco-animate">
-          <div class="img col-md-12 ftco-animate" style="background-image: url('images1/budget.jpg'); height: 500px; weight: 500px;">
-            <!-- <a href="#" class="button popup-vimeo"><span class="ion-ios-play"></span></a> -->
+          <div class="col-md-12">
+          <div class="img col-md-12 col-sm-12 mx-auto ftco-animate">
+            <img src="images1/budget.jpg" style="max-width: 100%; height: auto;">
           </div>
           </div>
         </div>

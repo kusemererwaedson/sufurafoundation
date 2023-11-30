@@ -182,9 +182,7 @@
         </div>
       </div>
     </section>
-
-    <section class="ftco-section">
-    <div class="container">
+    <!-- <div class="container">
         <div class="row justify-content-center mb-2 pb-2">
           <div class="col-md-12">
           <div class="img col-md-12 col-sm-12 mx-auto ftco-animate">
@@ -194,6 +192,38 @@
         </div>
         
       </div>
+
+
+      <div class="container">
+        <div class="row justify-content-center mb-2 pb-2">
+          <div class="col-md-12">
+          <div class="img col-md-12 col-sm-12 mx-auto ftco-animate">
+          <video width="640" height="360" controls>
+            <source src="images1/vid.mp4" type="video/mp4" style="max-width: 100%; height: auto;">
+            Your browser does not support the video tag.
+          </video>
+          </div>
+          </div>
+        </div>
+        
+      </div> -->
+
+      <section class="ftco-section ftco-counter" id="section-counter">
+      <div class="container">
+          <div class="row justify-content-center mb-5 pb-5">
+              <div class="img col-md-12 col-sm-12 mx-auto ftco-animate">
+                  <img src="images1/budget.jpg" style="max-width: 100%; height: auto;">
+              </div>
+          </div>
+          <div class="row justify-content-center pb-5">
+          <video width="640" height="360" style="max-width: 100%; height: auto;" controls>
+            <source src="images1/vid.mp4" type="video/mp4">
+          </video>
+          </div>
+        </div>
+      </div>
+    </section>
+
       <div class="container">
         <div class="row justify-content-center mb-5 pb-5">
           <div class="col-md-6 text-center heading-section ftco-animate">
